@@ -14,18 +14,29 @@ public class SecretNumberLab{
 //  otherwise print 'is your number odd?'
         if (SecretNumberLab.equals("Yes")) {
             System.out.println("Is your number even?");
-
         } if (SecretNumberLab.equals("Yes")) {
+
             System.out.println("Is your number 2?");
         } else if (SecretNumberLab.equals("Yes"));
         System.out.println("I guessed your number"); {
 
             System.out.println("Is your number 4?");
             if (SecretNumberLab.equals("No"));
+            else if (SecretNumberLab.equals("Yes"));
+            System.out.println("I guessed your number"); {
 
+        System.out.println("Is your number 6");
+            if (SecretNumberLab.equals("No")); {
+            else if (SecretNumberLab.equals("Yes"));
+            System.out.println("I guessed your number"); {
 
-        if (SecretNumberLab.equals("No")) {
-        System.out.println("Is your number ");
+         System.out.println("Is your number 8");
+                    }
+         if (SecretNumberLab.equals("No")); {
+             else if (SecretNumberLab.equals("Yes"));
+             System.out.println("I guessed your number");
+                    }
+                    }
 
         {
             System.out.println("Is your number 9?");
@@ -68,4 +79,3 @@ public class SecretNumberLab{
         }
     }
     }
-
